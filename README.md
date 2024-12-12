@@ -9,3 +9,7 @@ The [original version](https://github.com/Idrae/Towers_Of_The_Wild-1.16.3) of th
 We tried submittig [PR](https://github.com/Idrae/Towers_Of_The_Wild-1.16.3/pull/8) to Idrae but the author is not active anymore. 
 
 Attribution goes to the original author [Idrae](https://github.com/Idrae)
+
+------
+
+Remind me that this mod needs to be use a forked version of instead of the original one.
